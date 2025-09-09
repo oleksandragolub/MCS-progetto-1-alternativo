@@ -1,0 +1,36 @@
+Risultati per matrice: vem2.mtx
+Tolleranza: 1e-06
+============================================================
+
+Metodo: Jacobi
+Convergenza: Sì
+Iterazioni: 3676
+Tempo: 13.446696 s
+Errore residuo: 9.989281e-07
+Errore relativo: 4.967034e-05
+----------------------------------------
+
+Metodo: Gauss-Seidel
+Convergenza: Sì
+Iterazioni: 1840
+Tempo: 976.354375 s
+Errore residuo: 9.959791e-07
+Errore relativo: 4.941761e-05
+----------------------------------------
+
+Metodo: Gradient
+Convergenza: Sì
+Iterazioni: 2438
+Tempo: 4.905738 s
+Errore residuo: 9.922897e-07
+Errore relativo: 3.791419e-05
+----------------------------------------
+
+Metodo: Conjugate Gradient
+Convergenza: Sì
+Iterazioni: 56
+Tempo: 0.072911 s
+Errore residuo: 8.540010e-07
+Errore relativo: 4.742996e-07
+----------------------------------------
+

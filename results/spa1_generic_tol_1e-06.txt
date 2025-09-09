@@ -1,0 +1,36 @@
+Risultati per matrice: spa1.mtx
+Tolleranza: 1e-06
+============================================================
+
+Metodo: Jacobi
+Convergenza: Sì
+Iterazioni: 181
+Tempo: 0.052712 s
+Errore residuo: 9.619667e-07
+Errore relativo: 1.797930e-05
+----------------------------------------
+
+Metodo: Gauss-Seidel
+Convergenza: Sì
+Iterazioni: 17
+Tempo: 1.279754 s
+Errore residuo: 5.578762e-07
+Errore relativo: 1.299694e-04
+----------------------------------------
+
+Metodo: Gradient
+Convergenza: Sì
+Iterazioni: 3577
+Tempo: 0.960449 s
+Errore residuo: 9.980891e-07
+Errore relativo: 9.680457e-04
+----------------------------------------
+
+Metodo: Conjugate Gradient
+Convergenza: Sì
+Iterazioni: 134
+Tempo: 0.026023 s
+Errore residuo: 9.741976e-07
+Errore relativo: 2.552909e-05
+----------------------------------------
+
